@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Word-Counter-using-react-main/static/css/main.8f82de35.css",
+    "main.js": "/Word-Counter-using-react-main/static/js/main.2fc714ef.js",
+    "static/js/787.3a039655.chunk.js": "/Word-Counter-using-react-main/static/js/787.3a039655.chunk.js",
+    "index.html": "/Word-Counter-using-react-main/index.html",
+    "main.8f82de35.css.map": "/Word-Counter-using-react-main/static/css/main.8f82de35.css.map",
+    "main.2fc714ef.js.map": "/Word-Counter-using-react-main/static/js/main.2fc714ef.js.map",
+    "787.3a039655.chunk.js.map": "/Word-Counter-using-react-main/static/js/787.3a039655.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f82de35.css",
+    "static/js/main.2fc714ef.js"
+  ]
+}
